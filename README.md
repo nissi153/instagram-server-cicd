@@ -138,7 +138,7 @@ GitHub 저장소 → **Settings → Secrets and variables → Actions**에서 �
 |---|---|
 | `DEPLOY_ENABLED` | `true` |
 
-#### Secrets (4개)
+#### Secrets (4개) 
 
 | 이름 | 값 |
 |---|---|
